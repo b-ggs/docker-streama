@@ -29,5 +29,9 @@ Docker image for [Streama](https://github.com/dularion/streama)
   * Pro : Just works
   * Con : None if you're already using nginx-proxy, it works the same way, and works with it.
 
+# Links
+
+* Project page [https://github.com/gissehel/docker-streama](https://github.com/gissehel/docker-streama)
+* Docker hub page [https://hub.docker.com/r/gissehel/streama/](https://hub.docker.com/r/gissehel/streama/)
 
 

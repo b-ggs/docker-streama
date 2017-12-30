@@ -1,4 +1,4 @@
-FROM java:8-jre
+FROM openjdk:8-jre
 MAINTAINER Gissehel <public-maintainer-docker-streama@gissehel.org>
 
 EXPOSE 8080
